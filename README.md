@@ -269,4 +269,4 @@
 
 
 # Схема сети
-![](https://github.com/dmitriyklimenkov/LAB-IP4-6)
+![](https://github.com/dmitriyklimenkov/LAB-IP4-6/blob/main/%D0%9E%D0%B1%D1%89%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.PNG)
